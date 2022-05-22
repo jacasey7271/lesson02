@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	color:#343434;
+	
+	
+}
+img {
+	width: 300px;
+}
+header {
+	background-color: #2F3061;
+	color:antiquewhite;
+	font-style: italic;
+}
+/*link color schemes*/
+a:link {
+	color: green;
+}
+a:visited{
+	color: grey;
+}
+a:active {
+	color: red;
+}
+a:hover {
+text-decoration: none;
+}
+/*projects*/
+.projects {
+	background-color:lightblue;
+}
+.projects a {
+	color: #2F3061;
+}
+.projects .btn {
+	color: #F7FFF7;
+	background-color: darkblue;
+	padding: 8px;
+	border-radius: 4px;
+	
+}
+.projects a:hover {
+	background:
+		rgb(47,48,97,80%);
+}
+/*work*/
+.work-exp {
+	background-color:#a1c607;
+}
+/*education*/
+
+/*contactinfo*/
+footer {
+	background-color: darkgray;
+	color: antiquewhite;
+}
